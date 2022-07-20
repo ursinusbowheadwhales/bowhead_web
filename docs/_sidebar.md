@@ -1,0 +1,4 @@
+- [Background](/ "Background - Bowhead Whale")
+- [Preprocessing](preprocessing.md "Preprocessing - Bowhead Whale")
+- [Future Directions](future-directions.md "Future Directions - Bowhead Whale")
+- [Acknowledgements​](acknowledgements.md "Acknowledgements​ - Bowhead Whale")
