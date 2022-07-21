@@ -9,12 +9,12 @@ In addition, we would like to thank the following Ukrainian and Alaskan bowhead 
 
 > Fail quickly.
 > 
->  -- <cite>Dr. Tralie</cite>
+>  -- <cite>Dr. Christopher Tralie</cite>
 
 
 > In order to create a Sierpinski Triangle, you need a Sierpinski Triangle.
 > 
->  -- <cite>Dr. Tralie</cite>
+>  -- <cite>Dr. Christopher Tralie</cite>
 
 > The code works, I’m 100% confident, unless it doesn't.
 > 
@@ -26,8 +26,8 @@ In addition, we would like to thank the following Ukrainian and Alaskan bowhead 
 
 > Zombie Whales!
 > 
->  -- <cite>Dr. New</cite>
+>  -- <cite>Dr. Leslie New</cite>
 
-> Sometimes your health is more than the triangle inequality.
+> Sometimes your health is more important than the triangle inequality.
 > 
->  -- <cite>Dr. Tralie</cite>
+>  -- <cite>Dr. Christopher Tralie</cite>

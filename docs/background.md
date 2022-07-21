@@ -1,6 +1,6 @@
 # Automated Approaches to Bowhead Whales
 By **Sam Gregory** and **Kacey La**\
-Advised by **Dr. Chris Tralie** and **Dr. Leslie New​**\
+Advised by **Dr. Christopher Tralie** and **Dr. Leslie New​**\
 <code>**Ursinus College** - **Summer Fellows**</code>
 
 >**Presentations:** \
